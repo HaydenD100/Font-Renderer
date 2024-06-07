@@ -6,6 +6,7 @@ A Font Renderer takes the vector description from a font file, in this case a Tr
 
 # Features 
   -This font renderer supports format 4 ‘cmap’ table.
+  
   -As well as full byte ‘loca’ table format.
 
 # Development
