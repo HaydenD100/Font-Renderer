@@ -1,4 +1,4 @@
-# Font Rendering of the font JetBrainsMono-Bold
+# Font Rendering of JetBrainsMono-Bold
 ![screenshot](/docs/assets/screenshot1.png)
 
 # What is a Font Renderer
